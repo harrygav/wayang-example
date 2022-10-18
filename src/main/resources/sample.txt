@@ -1,0 +1,1 @@
+Hello, this is a sample file to test wayang wordcount. This is the second sentence.
